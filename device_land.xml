@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-15.1" />
+  <project name="ridon/android_device_xiaomi_land" path="device/xiaomi/land" remote="github" revision="ridon-8.1" />
+  <project name="ridon/android_device_xiaomi_msm8937-common" path="device/xiaomi/msm8937-common" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1"/>
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1"/>
+</manifest>
